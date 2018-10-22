@@ -108,7 +108,7 @@ fun main(args: Array<String>) {
     //Uso do Singleton
     SingleTon.mostraMensagem("Alguma coisa")
 
-    
+
     //Companion object
     //Acessando objeto SINGLETON de uma classe comum
     BancoService.getConexao()

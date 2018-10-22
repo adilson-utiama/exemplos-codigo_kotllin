@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecba57f7-3a9a-460a-8de7-e70ee77e319d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/classes/ExemplosClasses.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/classes/ExemploInterface.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/classes/ExemplosClasses.kt" afterPath="$PROJECT_DIR$/src/classes/ExemplosClasses.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExemplosClasses.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExemplosClasses.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/ExemplosClasses.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="562">
-              <caret line="110" column="4" lean-forward="false" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+              <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExemploInterface.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classes/ExemploInterface.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -105,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/funcoes/HigherOrderFunctions.kt" />
         <option value="$PROJECT_DIR$/src/funcoes/Funcoes.kt" />
         <option value="$PROJECT_DIR$/src/classes/ExemplosClasses.kt" />
+        <option value="$PROJECT_DIR$/src/classes/ExemploInterface.kt" />
       </list>
     </option>
   </component>
@@ -235,20 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.classes.ExemplosClassesKt">
-    <configuration default="false" name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="TesteKotlin" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.classes.ExemploInterfaceKt">
     <configuration default="false" name="LoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="LoopsKt" />
@@ -291,6 +290,19 @@
     <configuration default="false" name="classes.ExemplosClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="classes.ExemplosClassesKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TesteKotlin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="classes.ExemploInterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="classes.ExemploInterfaceKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -506,19 +518,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.MainKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.LoopsKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.tipos.VariaveisETiposKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.funcoes.FuncoesKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.classes.ExemplosClassesKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.LoopsKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.tipos.VariaveisETiposKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.funcoes.FuncoesKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.classes.ExemplosClassesKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.classes.ExemploInterfaceKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.classes.ExemplosClassesKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.funcoes.FuncoesKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.tipos.VariaveisETiposKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.LoopsKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.MainKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.classes.ExemploInterfaceKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.classes.ExemplosClassesKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.funcoes.FuncoesKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.tipos.VariaveisETiposKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.LoopsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -548,7 +560,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22550336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22550336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -648,7 +660,15 @@
     <entry file="file://$PROJECT_DIR$/src/classes/ExemplosClasses.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="562">
-          <caret line="110" column="4" lean-forward="false" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ExemploInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding />
         </state>
       </provider>
