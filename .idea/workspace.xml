@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecba57f7-3a9a-460a-8de7-e70ee77e319d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/Funcoes.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/HigherOrderFunctions.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/classes/ExemplosClasses.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tipos/VariaveisETipos.kt" afterPath="$PROJECT_DIR$/src/tipos/VariaveisETipos.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Funcoes.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Funcoes.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/funcoes/Funcoes.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExemplosClasses.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classes/ExemplosClasses.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="110" column="4" lean-forward="false" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -96,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/tipos/VariaveisETipos.kt" />
         <option value="$PROJECT_DIR$/src/funcoes/HigherOrderFunctions.kt" />
         <option value="$PROJECT_DIR$/src/funcoes/Funcoes.kt" />
+        <option value="$PROJECT_DIR$/src/classes/ExemplosClasses.kt" />
       </list>
     </option>
   </component>
@@ -183,6 +192,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TesteKotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TesteKotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -208,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.funcoes.FuncoesKt">
+  <component name="RunManager" selected="Kotlin.classes.ExemplosClassesKt">
     <configuration default="false" name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MainKt" />
@@ -251,6 +278,19 @@
     <configuration default="false" name="funcoes.FuncoesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="funcoes.FuncoesKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TesteKotlin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="classes.ExemplosClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="classes.ExemplosClassesKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -465,18 +505,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.MainKt" />
       <item index="1" class="java.lang.String" itemvalue="Kotlin.LoopsKt" />
       <item index="2" class="java.lang.String" itemvalue="Kotlin.tipos.VariaveisETiposKt" />
       <item index="3" class="java.lang.String" itemvalue="Kotlin.funcoes.FuncoesKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.classes.ExemplosClassesKt" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.funcoes.FuncoesKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.tipos.VariaveisETiposKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.LoopsKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.MainKt" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.classes.ExemplosClassesKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.funcoes.FuncoesKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.tipos.VariaveisETiposKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.LoopsKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -599,6 +641,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ExemplosClasses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="110" column="4" lean-forward="false" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
           <folding />
         </state>
       </provider>
