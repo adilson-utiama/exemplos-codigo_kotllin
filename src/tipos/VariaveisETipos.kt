@@ -26,14 +26,21 @@ fun main(args: Array<String>) {
 
     //##### Objetos Nulos (Null Safety)
     //Em Kotlin não é permitido que se atribua valor nulos em variaveis, a menos que seja explicitamente
-    //indicado no codigo com ? apos o tipo
+    //indicado no codigo com '?' apos o tipo
+    //Em Kotlin, mesmo se utilizando dessa forma, não corremos o risco de NullPointerException
+    //pois o Kotlin sabe que o objeto é nulo e nao tenta acessa-lo
 
     var objeto:String = "Livro"
     //objeto = null  //=> Nao aceita
 
     var outroObjeto:String? = "Celular"  //=> Aceita nulo
     outroObjeto = null
+    println(outroObjeto?.length) // null >> Nao ocorre uma excecao
 
+    //Porem podemos forcar um objeto nulo com o uso de '!!'
+    //Embora nao seja recomendado seu uso
+    var objetoNulo:String? = null
+    //println(objetoNulo!!.length) //Ocorre uma excecao
 
 
     //#####Operador Ternario
